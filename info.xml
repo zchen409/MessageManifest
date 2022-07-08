@@ -38,4 +38,25 @@ ReleaseNote for CDK V2.14.0
     2.5 修复了在切换SDK工程时，CPU浮点选项配置错误的问题；</content>
 		<url display="点击下载新版本">https://occ-oss-prod.oss-cn-hangzhou.aliyuncs.com/resource//1649417415571/cdk-windows-V2.14.0-20220402-1724.zip</url>
 	</Msg>
+	<!--一个玄铁工具链插件有新版本的消息实例-->
+	<Msg token="1">
+		<title>玄铁900 CPU工具链更新1</title>
+		<start_time>2022-04-25</start_time>
+		<end_time>2022-07-30</end_time>
+		<valid_cdk_version>2.1.0，99.99.99</valid_cdk_version>
+		<overlap>cdk_psf_XTGccElfNewlib</overlap>
+		<psf id="XTGccElfNewlib" version="V2.2.5"/> 
+		<force>yes</force>
+		<tip>平头哥玄铁900工具链V2.2.5已经发布，点击查看更新方法</tip>
+		<content>平头哥玄铁900工具链V2.2.5已经发布，更新方法：
+  1 点击菜单栏SDK->On Plugin Management->Toolchain...，弹出插件管理对话框
+  2 展开T-Head->Xuantie 900 CPU ELF-NewLibc Toolchain节点
+  3 找到V2.2.5版本节点，点击Not Install按钮，开始进行安装
+  4 V2.2.5版本节点按钮状态变为绿色的Installed，表示当前插件已经安装成功
+=============================
+ReleaseNote for CDK V2.14.0
+  1. 功能新增、优化与更新说明：
+    1.1 编译器：修复O0选项下RVV 0.7.1 intrinsic出现segment fault的问题
+    1.2 newlib：汇编优化memcpy，修复DAC方式写Flash效率下降的问题</content>
+	</Msg>
 </Messages>
