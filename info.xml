@@ -62,7 +62,7 @@ ReleaseNote for CDK V2.14.0
 	<Msg token="2">
 		<title>发现新的CDK版本3</title>
 		<start_time>2022-04-25</start_time>
-		<end_time>2022-06-30</end_time>
+		<end_time>2022-07-30</end_time>
 		<valid_cdk_version>2.15.0,2.18.0</valid_cdk_version>
 		<overlap>cdk_new_version</overlap>
 		<force>yes</force>
