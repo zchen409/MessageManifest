@@ -2,13 +2,13 @@
 <Messages>
 	<!--一个CDK新版本升级的消息实例-->
 	<Msg token="0">
-		<title>发现新的CDK版本</title>
-		<start_time>2022-04-24</start_time>
-		<end_time>2022-06-30</end_time>
+		<title>发现新的CDK版本0</title>
+		<start_time>2022-07-07</start_time>
+		<end_time>2022-07-30</end_time>
 		<valid_cdk_version>0.0.0,2.14.0</valid_cdk_version>
 		<overlap>cdk_new_version</overlap>
 		<force>no</force>
-		<tip>新版本CDK V2.14.0已经发布</tip>
+		<tip>新版本CDK V2.14.0已经发布0</tip>
 		<content>CDK V2.14.0已经发布，更新方法：
   1 点击如下链接下载安装包，然后解压安装包；
   2 退出当前CDK，无需卸载，直接双击解压以后的setup.exe程序，选择覆盖安装；
