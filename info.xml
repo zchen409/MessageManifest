@@ -191,4 +191,14 @@ ReleaseNote for CDK V2.15.0
 		<content>“玄铁杯”RISC-V应用创新大赛是由芯片开放社区（OCC）发起的面向全球开发者的开源赛事。通过输出完整的RISC-V开发学习模型，培养掌握RISC-V开源架构知识、极简高效开发能力的优秀开发者。同时，开发者可通过OCC平台提供的底层技术开放能力及服务，实现技术与商业创新，共建RISC-V物联网应用生态。</content>
 		<url display="点我报名">https://occ.t-head.cn/development/activities/occ-competition?id=4035399422568370176&amp;type=development_tools&amp;channelName=undefined</url>
 	</Msg>
+	<Msg token="7">
+		<title>欢迎参加OCC创新活动大赛7！</title>
+		<start_time>2022-04-26</start_time>
+		<end_time>2022-08-30</end_time>
+		<valid_cdk_version>2.1.0，99.99.99</valid_cdk_version> 
+		<force>no</force>
+		<tip>RISC-V创新应用大赛信息，点击查看详情</tip>
+		<content>“玄铁杯”RISC-V应用创新大赛是由芯片开放社区（OCC）发起的面向全球开发者的开源赛事。通过输出完整的RISC-V开发学习模型，培养掌握RISC-V开源架构知识、极简高效开发能力的优秀开发者。同时，开发者可通过OCC平台提供的底层技术开放能力及服务，实现技术与商业创新，共建RISC-V物联网应用生态。</content>
+		<url display="点我报名">https://occ.t-head.cn/development/activities/occ-competition?id=4035399422568370176&amp;type=development_tools&amp;channelName=undefined</url>
+	</Msg>
 </Messages>
