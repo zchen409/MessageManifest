@@ -170,4 +170,25 @@ ReleaseNote for CDK V2.15.0
     2.5 修复了在切换SDK工程时，CPU浮点选项配置错误的问题；</content>
 		<url display="点击下载新版本">https://occ-oss-prod.oss-cn-hangzhou.aliyuncs.com/resource//1649417415571/cdk-windows-V2.15.0-20220402-1724.zip</url>
 	</Msg>
+	<!--一个平头哥大赛活动宣传的实例-->
+	<Msg token="5">
+		<title>欢迎参加OCC创新活动大赛5！</title>
+		<start_time>2022-04-26</start_time>
+		<end_time>2022-08-30</end_time>
+		<valid_cdk_version>2.1.0，99.99.99</valid_cdk_version> 
+		<force>no</force>
+		<tip>RISC-V创新应用大赛信息，点击查看详情</tip>
+		<content>“玄铁杯”RISC-V应用创新大赛是由芯片开放社区（OCC）发起的面向全球开发者的开源赛事。通过输出完整的RISC-V开发学习模型，培养掌握RISC-V开源架构知识、极简高效开发能力的优秀开发者。同时，开发者可通过OCC平台提供的底层技术开放能力及服务，实现技术与商业创新，共建RISC-V物联网应用生态。</content>
+		<url display="点我报名">https://occ.t-head.cn/development/activities/occ-competition?id=4035399422568370176&amp;type=development_tools&amp;channelName=undefined</url>
+	</Msg>
+	<Msg token="6">
+		<title>欢迎参加OCC创新活动大赛6！</title>
+		<start_time>2022-04-26</start_time>
+		<end_time>2022-08-30</end_time>
+		<valid_cdk_version>2.1.0，99.99.99</valid_cdk_version> 
+		<force>no</force>
+		<tip>RISC-V创新应用大赛信息，点击查看详情</tip>
+		<content>“玄铁杯”RISC-V应用创新大赛是由芯片开放社区（OCC）发起的面向全球开发者的开源赛事。通过输出完整的RISC-V开发学习模型，培养掌握RISC-V开源架构知识、极简高效开发能力的优秀开发者。同时，开发者可通过OCC平台提供的底层技术开放能力及服务，实现技术与商业创新，共建RISC-V物联网应用生态。</content>
+		<url display="点我报名">https://occ.t-head.cn/development/activities/occ-competition?id=4035399422568370176&amp;type=development_tools&amp;channelName=undefined</url>
+	</Msg>
 </Messages>
