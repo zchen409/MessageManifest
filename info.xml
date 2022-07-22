@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Messages>
-  <!--一个CDK新版本升级的消息实例-->
   <Msg token="1">
-    <title>新消息1</title>
-    <start_time>2022-04-30</start_time>
-    <end_time>2022-07-22</end_time>
-    <valid_cdk_version>0.0.0,2.15.3</valid_cdk_version>
-    <psf id="XTGccElfNewlib" version="V2.5.0"/>
-    <force>no</force>
-    <tip>有新消息通知了</tip>
-    <content>亡命天涯</content>
-    <url display="网址">https://blog.csdn.net/u013846293/article/details/74003051/</url>
-  </Msg>
+		<title>新消息1</title>
+		<start_time>2022-04-30</start_time>
+		<end_time>2022-07-22</end_time>
+		<valid_cdk_version>0.0.0,2.15.3</valid_cdk_version>
+		<force>no</force>
+		<tip>有新消息通知了</tip>
+		<content>亡命天涯</content>
+		<url display="网址">https://blog.csdn.net/u013846293/article/details/74003051/</url>
+	</Msg>
 </Messages>
