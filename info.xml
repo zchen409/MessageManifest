@@ -4,7 +4,7 @@
 		<title>玄铁900 CPU工具链更新</title>
 		<start_time>2022-04-25</start_time>
 		<end_time>2022-08-30</end_time>
-		<valid_cdk_version>2.14.0，99.99.99</valid_cdk_version>
+		<valid_cdk_version>2.1.0，99.99.99</valid_cdk_version>
 		<psf id="XTGccElfNewlib" version="V2.4.0"/> 
 		<force>no</force>
 		<tip>平头哥玄铁900工具链V2.4.0已经发布，点击查看更新方法</tip>
@@ -19,4 +19,14 @@ ReleaseNote for CDK V2.14.0
     1.1 编译器：修复O0选项下RVV 0.7.1 intrinsic出现segment fault的问题
     1.2 newlib：汇编优化memcpy，修复DAC方式写Flash效率下降的问题</content>
 	</Msg>
+<Msg token="4">
+    <title>新消息4</title>
+    <start_time>2022-04-30</start_time>
+    <end_time>2022-07-30</end_time>
+    <valid_cdk_version>0.0.0,2.15.3</valid_cdk_version>
+    <force>no</force>
+    <tip>有新消息通知了</tip>
+    <content>亡命天涯</content>
+    <url display="网址">https://blog.csdn.net/u013846293/article/details/74003051/</url>
+  </Msg>
 </Messages>
