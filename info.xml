@@ -39,4 +39,14 @@ ReleaseNote for CDK V2.14.0
     <content>亡命天涯</content>
     <url display="网址">https://blog.csdn.net/u013846293/article/details/74003051/</url>
   </Msg>
+<Msg token="6">
+    <title>新消息6</title>
+    <start_time>2022-04-30</start_time>
+    <end_time>2022-07-30</end_time>
+    <valid_cdk_version>0.0.0,2.15.3</valid_cdk_version>
+    <force>no</force>
+    <tip>有新消息通知了</tip>
+    <content>亡命天涯</content>
+    <url display="网址">https://blog.csdn.net/u013846293/article/details/74003051/</url>
+  </Msg>
 </Messages>
